@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
 }
 
-/* tete de page */
+/* tete de la page */
 
 header.header {
     display: flex;
@@ -31,7 +31,7 @@ section.top-page {
     padding: 25px;
 }
 
-/* page de bienvenue (landing page) */
+/* page de bienvenue */
 
 .landing-page {
     position: relative;
@@ -217,7 +217,7 @@ nav.nav li a {
     grid-row: 3/5;
 }
 
-/* pied de page */
+/* pied de la page */
 
 footer {
     display: flex;
